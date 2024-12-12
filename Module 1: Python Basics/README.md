@@ -97,6 +97,16 @@ By the end of Module 1, you’ll:
 
 ---
 
+### 🚀 **Launch the Notebook on Google Colab!** 🌟  
+Dive into the code and start experimenting by clicking the link below:
+
+🔗 [Open the Colab Notebook](https://colab.research.google.com/drive/1SkYi_-fUXjCiY7ln-BAe7LlYd7z6c7Rv?usp=sharing)
+
+✨ **Explore, modify, and unleash your creativity in the interactive environment of Google Colab!**
+
+---
+
+
 Let’s make your first Python module an incredible learning journey. Dive in, experiment, and have fun coding 🌟  
 
 ---
