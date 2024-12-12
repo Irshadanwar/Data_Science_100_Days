@@ -1,4 +1,4 @@
-# 🐍 **Module 1: Python Basics**  
+# 🐍 **Module 1: Python Basics(Day 1-3)**  
 
 Welcome to your Python journey! 🚀 In this module, we’re laying the foundation for everything you’ll ever do with Python. Whether it’s building an AI model, automating mundane tasks, or creating a fun game, it all starts here.  
 
