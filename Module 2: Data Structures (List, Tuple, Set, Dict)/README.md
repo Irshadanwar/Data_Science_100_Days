@@ -1,8 +1,8 @@
 # 🧩 **Module 2: Data Structures (Day 4-5)**  
 
-Welcome to the exciting world of **Python Data Structures**! 🌟 These are the building blocks of any Python program and are crucial for organizing, storing, and manipulating data. Whether you're handling user inputs, performing mathematical operations, or building complex algorithms, these tools are your best friends!  
+Welcome to the exciting world of **Python Data Structures** 🌟 These are the building blocks of any Python program and are crucial for organizing, storing, and manipulating data. Whether you're handling user inputs, performing mathematical operations, or building complex algorithms, these tools are your best friends!  
 
-By the end of this module, you’ll wield the power of **Lists, Tuples, Sets, and Dictionaries** like a Python pro. Ready to dive in? Let’s get started! 🚀  
+By the end of this module, you’ll wield the power of **Lists, Tuples, Sets, and Dictionaries** like a Python pro. Ready to dive in? Let’s get started 🚀  
 
 ---
 
