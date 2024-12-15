@@ -107,6 +107,6 @@ Dive into the code and start experimenting by clicking the link below:
 ---
 
 
-Let’s make your first Python module an incredible learning journey. Dive in, experiment, and have fun coding 🌟  
+Let’s make your first Python module an incredible learning journey. Dive in, experiment,  🌟  
 
 ---
